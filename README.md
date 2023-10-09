@@ -1,36 +1,26 @@
-# Example Mod
+# Useless' BTA Modpack
 
-Template for making Babric mods for BTA!
+This is a collection of BTA mods that have multiplayer support, modded BTA now comes to you and your friends. 
 
-**Note: *DO NOT fork this repository unless you want to contribute!***
+# Installation
+## Client-side
+Add the modpack instance to your Minecraft launcher (ie. MultiMC or Prism) as a new instance, it comes with the babric modloader, mods, and configs inside
+## Server-side
+Extract the server zip folder and run start.bat to launch the server, it'll generate files the first time including the server.properties file which you'll likely want to configure
 
-## Prerequisites
-- JDK for Java 17 ([Eclipse Temurin](https://adoptium.net/temurin/releases/) recommended)
-- IntelliJ IDEA
-- Minecraft Development plugin (Optional, but highly recommended)
-
-## Setup instructions
-   
-
-1. Click the `Use this template` button on this repo's page above. Choose `Create a new respository`, you will be redirected to a new page. Enter your repo's name and description, and hit `Create repository`.  
-   To get your project, open IntelliJ IDEA and click `Get from VCS`. Select `Repository URL` and enter your repo's url
-
-2. After the project has finished importing, close it and open it again.  
-   If that does not work, open the right sidebar with `Gradle` on it, open `Tasks` > `fabric` and run `ideaSyncTask`.
-
-3. Create a new run configuration by going in `Run > Edit Configurations`.  
-   Then click on the plus icon and select Gradle. In the `Tasks and Arguments` field enter `build`.  
-   Running it will build your finished jar files and put them in `build/libs/`.
-
-4. While in the same place, select the Client and Server run configurations and edit the VM options under the SDK selection.
-
-   ![image](https://github.com/Turnip-Labs/bta-example-mod/assets/58854399/2d45551d-83e3-4a75-b0e6-acdbb95b8114)  
-
-   Click the double arrow icon to expand the list, and append `-Dfabric.gameVersion=1.7.7.0` to the end.  
-
-   ![image](https://github.com/Turnip-Labs/bta-example-mod/assets/58854399/e4eb8a22-d88a-41ef-8fb2-e37c66e18585)
-
-5. Lastly, open `File` > `Settings` and head to `Build, Execution, Development` > `Build Tools` > `Gradle`.  
-   Make sure `Build and run using` and `Run tests using` is set to `Gradle`.
-
-6. Done! Now, all that's left is to change every mention of `examplemod` and `turniplabs` to your own mod id and mod group, respectively. Happy modding!
+# Mod List and Credits
+- [Survival Paradise Enabler, by Useless](<https://discord.com/channels/866992171319558144/1137195724627521647>)
+- [Iron Chests, by Astoria & Useless](<https://discord.com/channels/866992171319558144/1086475244245622954>)
+- [Bonus Blocks, by LukeisStuff](<https://discord.com/channels/866992171319558144/1152233487231897621>)
+- [Better than BTA, by Lexal & Useless](<https://discord.com/channels/866992171319558144/1150434454817484840>)
+- [Better than Waila, by Owen ToufoueMaster)](<https://discord.com/channels/866992171319558144/1140738492490600489>)
+- [Cave Uberhaul, by Diarr](<https://discord.com/channels/866992171319558144/1046264116567887984>)
+- [Commander, by AndroidDr](<https://discord.com/channels/866992171319558144/1158038621450948790>)
+- [GuideBook++, by MartinSVK12](<https://discord.com/channels/866992171319558144/1070722725347336323>)
+- [HalpLibe, by TurnipLabs](<https://github.com/Turnip-Labs/bta-halplibe>)
+- [NoNameDyes, by Grease](<https://discord.com/channels/866992171319558144/1141808787477504131>)
+- [ModPack Patches, by Useless](<https://github.com/UselessBullets/UselessPackPatches>)
+- [PrismaticLibe, by Useless](<https://discord.com/channels/866992171319558144/1146289990368776224>)
+- [Spawn Eggs, by Useless](<https://discord.com/channels/866992171319558144/1140285655537160213>)
+- [KThings, by Killi](<https://codeberg.org/Volchonokilli/KThings>)
+- [ZoomPlus, by Useless](<https://discord.com/channels/866992171319558144/1137688513559679006>)
