@@ -1,0 +1,74 @@
+[01:59:57] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.7.7.0_02 with Fabric Loader 0.14.19-babric.1
+[01:59:57] [main/INFO] (FabricLoader) Loading 28 mods:
+	- aetherenabler 1.2.2
+	- afloydironchest 2.0.0
+	- bonusblocks 1.1.0
+	- btb 0.4.0
+	- btwaila 0.2.2
+	- caveuberhaul 1.2.2
+	- fabric-language-kotlin 1.9.4+kotlin.1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.8.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.20.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.5.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.5.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.5.0
+	- fabricloader 0.14.19-babric.1
+	- halplibe 2.3.1
+	   \-- org_apache_commons_commons-lang3 3.12.0
+	- java 18
+	- kthings 1.0.0
+	- minecraft 1.7.7.0.2
+	- nonamedyes 1.0
+	- patches 1.0.0
+	- prismaticlibe 2.2.0
+	- spawneggs 1.3.0
+[01:59:57] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/matth/Desktop/BTA%20Babric%201.7.7.0/UselessModpackServer/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[02:00:05] [main/INFO] (prismaticlibe) atlas_lib found, managing mixins.
+2023-10-09 02:00:07 INFO  Minecraft - Starting Better than Adventure! server for version INDEV
+2023-10-09 02:00:07 INFO  Minecraft - Loading properties
+2023-10-09 02:00:07 WARN  Minecraft - server.properties does not exist
+2023-10-09 02:00:07 INFO  Minecraft - Generating new properties file
+2023-10-09 02:00:11 INFO  Minecraft - Starting Minecraft server on *:25565
+2023-10-09 02:00:11 WARN  Minecraft - Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (The system cannot find the file specified)
+2023-10-09 02:00:11 WARN  Minecraft - Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (The system cannot find the file specified)
+2023-10-09 02:00:11 WARN  Minecraft - Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (The system cannot find the file specified)
+2023-10-09 02:00:11 WARN  Minecraft - Failed to load white-list: java.io.FileNotFoundException: white-list.txt (The system cannot find the file specified)
+2023-10-09 02:00:11 INFO  Minecraft - Preparing level "world"
+2023-10-09 02:00:11 INFO  Minecraft - Preparing start region for level 0
+2023-10-09 02:00:12 INFO  Minecraft - Preparing spawn area: 8%
+2023-10-09 02:00:13 INFO  Minecraft - Preparing spawn area: 16%
+2023-10-09 02:00:14 INFO  Minecraft - Preparing spawn area: 20%
+2023-10-09 02:00:15 INFO  Minecraft - Preparing spawn area: 28%
+2023-10-09 02:00:16 INFO  Minecraft - Preparing spawn area: 36%
+2023-10-09 02:00:17 INFO  Minecraft - Preparing spawn area: 40%
+2023-10-09 02:00:18 INFO  Minecraft - Preparing spawn area: 48%
+2023-10-09 02:00:19 INFO  Minecraft - Preparing spawn area: 52%
+2023-10-09 02:00:20 INFO  Minecraft - Preparing spawn area: 61%
+2023-10-09 02:00:21 INFO  Minecraft - Preparing spawn area: 65%
+2023-10-09 02:00:22 INFO  Minecraft - Preparing spawn area: 69%
+2023-10-09 02:00:23 INFO  Minecraft - Preparing spawn area: 77%
+2023-10-09 02:00:24 INFO  Minecraft - Preparing spawn area: 85%
+2023-10-09 02:00:25 INFO  Minecraft - Preparing spawn area: 89%
+2023-10-09 02:00:26 INFO  Minecraft - Preparing spawn area: 97%
+2023-10-09 02:00:27 INFO  Minecraft - Preparing start region for level 1
+2023-10-09 02:00:27 INFO  Minecraft - Preparing spawn area: 8%
+2023-10-09 02:00:28 INFO  Minecraft - Preparing spawn area: 24%
+2023-10-09 02:00:29 INFO  Minecraft - Preparing spawn area: 36%
+2023-10-09 02:00:30 INFO  Minecraft - Preparing spawn area: 48%
+2023-10-09 02:00:32 INFO  Minecraft - Preparing spawn area: 57%
+2023-10-09 02:00:33 INFO  Minecraft - Preparing spawn area: 69%
+2023-10-09 02:00:34 INFO  Minecraft - Preparing spawn area: 81%
+2023-10-09 02:00:35 INFO  Minecraft - Preparing spawn area: 93%
+2023-10-09 02:00:35 INFO  Minecraft - Preparing start region for level 2
+2023-10-09 02:00:35 INFO  Minecraft - Generating RSA key...
+2023-10-09 02:00:35 INFO  Minecraft - Done (24797544800ns)! For help, type "help" or "?"
+2023-10-09 02:00:52 INFO  Minecraft - Useless7695 [/127.0.0.1:60917] logged in with entity id 3481 at (-126.5, 129.62000000476837, 134.5)
+2023-10-09 02:01:06 INFO  Minecraft - Useless7695 lost connection: disconnect.endOfStream
+2023-10-09 02:01:08 INFO  Minecraft - Stopping server
+2023-10-09 02:01:08 INFO  Minecraft - Saving chunks
