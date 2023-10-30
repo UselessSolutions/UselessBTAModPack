@@ -24,3 +24,8 @@ Extract the server zip folder and run start.bat to launch the server, it'll gene
 - [KThings, by Killi](<https://bta-modding.nouma-vallee.fr/Killi/kthings>)
 - [YumBleach, by Useless](<https://bta-modding.nouma-vallee.fr/Useless/yum-bleach>)
 - [ZoomPlus, by Useless](<https://discord.com/channels/866992171319558144/1137688513559679006>)
+- [Energy API, by MartinSVK12](<https://github.com/MartinSVK12/energyapi>)
+- [Sunset Utils, by MartinSVK12](<https://github.com/MartinSVK12/sunsetutils>)
+- [Potato Logistics, by SamuelDeboni](<https://github.com/SamuelDeboni/potato-logistics>)
+- [Iron Furnaces, by FutureLizard205](<https://github.com/FutureLizard205/bta-IronFurnacesMod>)
+- [Better with Backpacks, by Useless & xtosutosu](<https://github.com/UselessBullets/bta-backpacks>)
