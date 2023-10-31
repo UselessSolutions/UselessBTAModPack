@@ -30,3 +30,4 @@ Extract the server zip folder and run start.bat to launch the server, it'll gene
 - [Iron Furnaces, by FutureLizard205](<https://github.com/FutureLizard205/bta-IronFurnacesMod>)
 - [Better with Backpacks, by Useless & xtosutosu](<https://github.com/UselessBullets/bta-backpacks>)
 - [Modernish Boats, by Useless](<https://github.com/UselessBullets/ModernishBoats>)
+- [QoL Features, by doshi.](<https://github.com/nhauqq/QoL-Features>)
