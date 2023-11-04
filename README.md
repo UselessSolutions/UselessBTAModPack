@@ -31,3 +31,4 @@ Extract the server zip folder and run start.bat to launch the server, it'll gene
 - [Better with Backpacks, by Useless & xtosutosu](<https://github.com/UselessBullets/bta-backpacks>)
 - [Modernish Boats, by Useless](<https://github.com/UselessBullets/ModernishBoats>)
 - [QoL Features, by doshi.](<https://github.com/nhauqq/QoL-Features>)
+- [Simple Tech, by Ambros](<https://github.com/Turnip-Labs/simple-tech>)
