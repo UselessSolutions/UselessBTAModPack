@@ -32,3 +32,8 @@ Extract the server zip folder and run start.bat to launch the server, it'll gene
 - [Modernish Boats, by Useless](<https://github.com/UselessBullets/ModernishBoats>)
 - [QoL Features, by doshi.](<https://github.com/nhauqq/QoL-Features>)
 - [Simple Tech, by Ambros](<https://github.com/Turnip-Labs/simple-tech>)
+- [Better with Aquatic, by baguchan](<https://github.com/baguchan/BetterWithAquatic>)
+- [BetterAI, by baguchan](<https://github.com/baguchan/BetterAI-BTA>)
+- [Industry2, by Cookie Cakes](<https://github.com/FatherCheese/Industry2>)
+- [Farlanders, by Cookie Cakes](<https://github.com/FatherCheese/farlanders>)
+- [DragonFly, by Useless & baguchan](<https://github.com/UselessBullets/DragonFly>)
