@@ -1,0 +1,15 @@
+{
+  "Ore Cluster Size": {
+    "tile.ore.nethercoal.netherrack": 12
+  },
+  "Chances Per Chunk": {
+    "tile.ore.nethercoal.netherrack": 10
+  },
+  "Vertical Starting Range": {
+    "tile.ore.nethercoal.netherrack": 0.0
+  },
+  "Vertical Ending Range": {
+    "tile.ore.nethercoal.netherrack": 0.9375
+  },
+  "Override Default Values": false
+}

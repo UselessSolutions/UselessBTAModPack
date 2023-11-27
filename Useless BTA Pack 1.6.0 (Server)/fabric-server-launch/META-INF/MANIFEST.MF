@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Main-Class: net.fabricmc.loader.launch.server.FabricServerLauncher
+Class-Path: libraries/net/fabricmc/tiny-mappings-parser/0.3.0+build.17/t
+ iny-mappings-parser-0.3.0+build.17.jar libraries/net/fabricmc/sponge-mi
+ xin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar libraries/ne
+ t/fabricmc/tiny-remapper/0.8.2/tiny-remapper-0.8.2.jar libraries/net/fa
+ bricmc/access-widener/2.1.0/access-widener-2.1.0.jar libraries/org/ow2/
+ asm/asm/9.4/asm-9.4.jar libraries/org/ow2/asm/asm-analysis/9.4/asm-anal
+ ysis-9.4.jar libraries/org/ow2/asm/asm-commons/9.4/asm-commons-9.4.jar 
+ libraries/org/ow2/asm/asm-tree/9.4/asm-tree-9.4.jar libraries/org/ow2/a
+ sm/asm-util/9.4/asm-util-9.4.jar libraries/babric/intermediary/b1.7.3/i
+ ntermediary-b1.7.3.jar libraries/babric/fabric-loader/0.14.19-babric.1/
+ fabric-loader-0.14.19-babric.1.jar libraries/babric/log4j-config/1.0.0/
+ log4j-config-1.0.0.jar libraries/net/minecrell/terminalconsoleappender/
+ 1.2.0/terminalconsoleappender-1.2.0.jar libraries/org/slf4j/slf4j-api/1
+ .8.0-beta4/slf4j-api-1.8.0-beta4.jar libraries/org/apache/logging/log4j
+ /log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar libraries/org/
+ apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar libraries/or
+ g/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar librarie
+ s/org/apache/logging/log4j/log4j-1.2-api/2.20.0/log4j-1.2-api-2.20.0.ja
+ r libraries/log4j/apache-log4j-extras/1.2.17/apache-log4j-extras-1.2.17
+ .jar libraries/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar libraries
+ /com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar libraries/org/a
+ pache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar libraries/c
+ ommons-io/commons-io/2.11.0/commons-io-2.11.0.jar libraries/commons-cod
+ ec/commons-codec/1.15/commons-codec-1.15.jar
+
