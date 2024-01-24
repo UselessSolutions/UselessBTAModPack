@@ -1,0 +1,92 @@
+[02:50:29] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 7.1 Prerelease 1a with Fabric Loader 0.14.19-babric.3-bta
+[02:50:29] [ForkJoinPool-1-worker-7/WARN] (FabricLoader/Metadata) Mod btb uses the version 0.6.2_08-7.1-useless which isn't compatible with Loader's extended semantic version format (Could not parse version number component '2_08'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[02:50:29] [ForkJoinPool-1-worker-10/WARN] (FabricLoader/Metadata) Mod potatologistics uses the version 0.3.0_01-useless which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0_01'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[02:50:29] [main/INFO] (FabricLoader) Loading 44 mods:
+	- better_ai 2.0.1
+	- better_with_aquatic 2.0.1
+	- betterwithbackpacks 1.0.0
+	- bonusblocks 2.0.0
+	   \-- org_apache_commons_commons-lang3 3.12.0
+	- btb 0.6.2_08-7.1-useless
+	- btwaila 1.0.8-7.1
+	- catalyst-core 1.1.1-useless-2
+	- catalyst-energy 1.0.2
+	- caveuberhaul 1.3.0-7.1-patch1
+	- dragonfly 1.4.1-7.1
+	- fabric-language-kotlin 1.9.4+kotlin.1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.8.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.20.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.5.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.5.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.5.0
+	- fabricloader 0.14.19-babric.3-bta+local
+	- farlanders 1.2.4-7.1
+	- halplibe 3.3.5
+	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.9
+	- industry 1.0.1-7.1
+	- ironchest 2.1.1-7.1
+	- ironfurnaces 1.2.0
+	- java 17
+	- kthings 1.1.0
+	- minecraft 7.1-beta.1a
+	- modernboats 2.1.0-7.1
+	- nonamedyes 1.0.2
+	- patches 2.0.0-pre1
+	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.9
+	- polymorph 1.1.0
+	- potatologistics 0.3.0_01-useless
+	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.9
+	- prismaticlibe 3.0.3-7.1
+	- qolfeatures 1.0.2
+	- simpletech 0.2.1-7.1
+	- spawneggs 2.0.2-7.1
+	- terrain-api 1.4.2-7.1
+	- yumbleach 1.0.1
+[02:50:29] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/matth/Documents/GitHub/UselessBTAModPack/Useless%20BTA%20Pack%202.0.0-pre1%20(Server)test/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[02:50:37] [main/WARN] (FabricLoader/Mixin) Reference map 'catalyst-energy-refmap.json' for catalyst-energy.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:50:37] [main/WARN] (FabricLoader/Mixin) Reference map 'ironfurnaces-refmap.json' for ironfurnaces.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:50:37] [main/WARN] (FabricLoader/Mixin) Error loading class: net/minecraft/client/Minecraft (java.lang.ClassNotFoundException: net/minecraft/client/Minecraft)
+[02:50:37] [main/WARN] (FabricLoader/Mixin) @Mixin target net.minecraft.client.Minecraft was not found spawneggs.mixins.json:MinecraftMixin from mod spawneggs
+[02:50:37] [main/INFO] (halplibe) Config file name: halplibe.cfg
+[02:50:37] [main/INFO] (halplibe) Config file path: C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\.\config\halplibe.cfg
+[02:50:37] [main/WARN] (FabricLoader/Mixin) @Inject(@At("INVOKE")) Shift.BY=2 on afloydironchest.mixins.json:Entity.MixinTileEntityTrommel from mod ironchest::handler$zei000$ironchest$addIronChestToTrommel exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[02:50:38] [main/INFO] (halplibe) Config file name: {enable_swim=true, starting_item_id=26000, starting_entity_id=600, enable_drowned=true, starting_block_id=3200}
+[02:50:38] [main/INFO] (halplibe) Config file path: C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\.\config\better_with_aquatic.cfg
+[02:50:38] [main/INFO] (halplibe) Updating config at C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\.\config\better_with_aquatic.cfg
+[02:50:38] [main/INFO] (halplibe) Updating config at C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\.\config\better_with_aquatic.cfg
+[02:50:38] [main/INFO] (halplibe) Config file name: farlanders.cfg
+[02:50:38] [main/INFO] (halplibe) Config file path: C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\.\config\farlanders.cfg
+2024-01-24 02:50:39 INFO  Minecraft - Starting Better than Adventure! server for version 7.1 Prerelease 1a
+2024-01-24 02:50:39 INFO  Minecraft - Running with Useless' BTA Modpack! 2.0.0-pre1
+2024-01-24 02:50:39 INFO  Minecraft - Loading properties
+2024-01-24 02:50:39 WARN  Minecraft - server.properties does not exist
+2024-01-24 02:50:39 INFO  Minecraft - Generating new properties file
+2024-01-24 02:50:44 INFO  Minecraft - Starting Minecraft server on *:25565
+2024-01-24 02:50:44 WARN  Minecraft - Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (The system cannot find the file specified)
+2024-01-24 02:50:44 WARN  Minecraft - Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (The system cannot find the file specified)
+2024-01-24 02:50:44 WARN  Minecraft - Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (The system cannot find the file specified)
+2024-01-24 02:50:44 WARN  Minecraft - Failed to load white-list: java.io.FileNotFoundException: white-list.txt (The system cannot find the file specified)
+2024-01-24 02:50:44 INFO  Minecraft - Preparing level "world"
+2024-01-24 02:50:44 INFO  Minecraft - Preparing start region for level 0
+2024-01-24 02:50:45 INFO  Minecraft - Preparing spawn area: 16%
+2024-01-24 02:50:46 INFO  Minecraft - Preparing spawn area: 40%
+2024-01-24 02:50:47 INFO  Minecraft - Preparing spawn area: 61%
+2024-01-24 02:50:48 INFO  Minecraft - Preparing spawn area: 85%
+2024-01-24 02:50:49 INFO  Minecraft - Preparing start region for level 1
+2024-01-24 02:50:49 INFO  Minecraft - Preparing spawn area: 12%
+2024-01-24 02:50:50 INFO  Minecraft - Preparing spawn area: 48%
+2024-01-24 02:50:51 INFO  Minecraft - Preparing spawn area: 89%
+2024-01-24 02:50:51 INFO  Minecraft - Preparing start region for level 2
+2024-01-24 02:50:51 INFO  Minecraft - Generating RSA key...
+2024-01-24 02:50:52 INFO  Minecraft - Done (7613528100ns)! For help, type "help" or "?"
+2024-01-24 02:52:13 INFO  Minecraft - Useless7695 [/127.0.0.1:62290] logged in with entity id 3 at (-3.5, 131.62000000476837, -40.5)
+2024-01-24 02:52:15 INFO  Minecraft - Player Useless7695 tried command: /gamemode 1
+2024-01-24 02:52:19 INFO  Minecraft - Useless7695 lost connection: disconnect.quitting
+2024-01-24 02:52:21 INFO  Minecraft - Stopping server
+2024-01-24 02:52:21 INFO  Minecraft - Saving chunks

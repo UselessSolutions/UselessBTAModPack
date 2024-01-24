@@ -1,0 +1,460 @@
+[02:50:29] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 7.1 Prerelease 1a with Fabric Loader 0.14.19-babric.3-bta
+[02:50:29] [main/DEBUG] (FabricLoader/GamePatch) Found game constructor: net.minecraft.server.MinecraftServer -> net.minecraft.server.MinecraftServer
+[02:50:29] [main/DEBUG] (FabricLoader/GamePatch) Patching game constructor <init>()V
+[02:50:29] [main/DEBUG] (FabricLoader/GamePatch) Patched 1 class
+[02:50:29] [ForkJoinPool-1-worker-7/WARN] (FabricLoader/Metadata) Mod btb uses the version 0.6.2_08-7.1-useless which isn't compatible with Loader's extended semantic version format (Could not parse version number component '2_08'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[02:50:29] [ForkJoinPool-1-worker-10/WARN] (FabricLoader/Metadata) Mod potatologistics uses the version 0.3.0_01-useless which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0_01'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[02:50:29] [main/DEBUG] (FabricLoader/Discovery) Mod discovery time: 83.8 ms
+[02:50:29] [main/DEBUG] (FabricLoader/Resolution) Mod resolution time: 21.5 ms
+[02:50:29] [main/INFO] (FabricLoader) Loading 44 mods:
+	- better_ai 2.0.1
+	- better_with_aquatic 2.0.1
+	- betterwithbackpacks 1.0.0
+	- bonusblocks 2.0.0
+	   \-- org_apache_commons_commons-lang3 3.12.0
+	- btb 0.6.2_08-7.1-useless
+	- btwaila 1.0.8-7.1
+	- catalyst-core 1.1.1-useless-2
+	- catalyst-energy 1.0.2
+	- caveuberhaul 1.3.0-7.1-patch1
+	- dragonfly 1.4.1-7.1
+	- fabric-language-kotlin 1.9.4+kotlin.1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-reflect 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 1.8.21
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 1.8.21
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.20.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.6.4
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.4.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.5.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.5.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.5.0
+	- fabricloader 0.14.19-babric.3-bta+local
+	- farlanders 1.2.4-7.1
+	- halplibe 3.3.5
+	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.9
+	- industry 1.0.1-7.1
+	- ironchest 2.1.1-7.1
+	- ironfurnaces 1.2.0
+	- java 17
+	- kthings 1.1.0
+	- minecraft 7.1-beta.1a
+	- modernboats 2.1.0-7.1
+	- nonamedyes 1.0.2
+	- patches 2.0.0-pre1
+	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.9
+	- polymorph 1.1.0
+	- potatologistics 0.3.0_01-useless
+	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.9
+	- prismaticlibe 3.0.3-7.1
+	- qolfeatures 1.0.2
+	- simpletech 0.2.1-7.1
+	- spawneggs 2.0.2-7.1
+	- terrain-api 1.4.2-7.1
+	- yumbleach 1.0.1
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\better_ai-2.0.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\better_with_aquatic-useless-2.0.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\btabackpacks-1.1.3-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\bonusblocks-2.0.0-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\btbta-0.6.2_08-7.1-useless.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\btwaila-1.0.8-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\catalyst-core-1.1.1-useless-2.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\catalyst-energy-1.0.2.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\caveuberhaul-useless-1.3.0-7.1-patch1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\com_github_llamalad7_mixinextras.2.0-beta.9-dd7a201e3fc6e9a8.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\dragonfly-1.4.1-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\fabric-language-kotlin-1.9.4+kotlin.1.8.21.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\farlanders-useless-1.2.4-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\halplibe-3.3.5.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\industry-useless-1.0.1-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\afloydironchest-2.1.1-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\ironfurnaces-1.2.0.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\Things-useless-1.1.0-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\modernboats-2.1.0-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\noname_dyes-1.1.1_01.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_apache_commons_commons-lang3-3.12.0-bd844ff9d96ec058.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_jetbrains_kotlin_kotlin-reflect-1.8.21-7a5a9bc672fa25af.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_jetbrains_kotlin_kotlin-stdlib-1.8.21-827af14597fa515a.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_jetbrains_kotlin_kotlin-stdljdk7-1.8.21-38e1e0beeedf1aae.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_jetbrains_kotlin_kotlin-stdl-jdk8-1.8.21-72752c5ed6e4984.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_jetbrains_kotlinx_atomicfu-jvm-0.20.2-4c016ce581f0d89a.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_jetbrains_kotlinx_kotlinx-coe-jvm-1.6.4-3ed2e0a10efa9c76.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_jetbrains_kotlinx_kotlinx-co-jdk8-1.6.4-36a63e975f78202e.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_jetbrains_kotlinx_kotlinx-dae-jvm-0.4.0-f7cea6b226b452dd.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_jetbrains_kotlinx_kotlinx-ser-jvm-1.5.0-c0e47a92b9913552.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_jetbrains_kotlinx_kotlinx-see-jvm-1.5.0-e23f43fcd1fdd1b8.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\processedMods\org_jetbrains_kotlinx_kotlinx-sen-jvm-1.5.0-fa0d2ef4cef3e410.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\patches-2.0.0-pre1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\polymorph-1.1.0.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\PotatoLogistics-0.3.0_01-useless.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\prismaticlibe-3.0.3-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\qolfeatures-useless-1.0.2.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\simple-tech-useless-0.2.1-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\spawneggs-2.0.2-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\terrainapi-1.4.2-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\mods\yumbleach-1.0.1-7.1.jar to classpath.
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baguchan.better_ai.BetterAI for mod better_ai (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baguchan.better_with_aquatic.BetterWithAquatic for mod better_with_aquatic (key beforeGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baguchan.better_with_aquatic.BetterWithAquatic for mod better_with_aquatic (key afterGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baguchan.better_with_aquatic.TerrainAPIPlugin for mod better_with_aquatic (key terrain-api)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baguchan.better_with_aquatic.compat.SpawnEggsPlugin for mod better_with_aquatic (key spawneggs)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baguchan.better_with_aquatic.BetterWithAquaticClient for mod better_with_aquatic (key beforeClientStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baguchan.better_with_aquatic.crafting.ModCraftings for mod better_with_aquatic (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baguchan.better_with_aquatic.BetterWithAquatic for mod better_with_aquatic (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baguchan.better_with_aquatic.BetterWithAquaticClient for mod better_with_aquatic (key afterClientStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer tosutosu.betterwithbackpacks.BetterWithBackpacks for mod betterwithbackpacks (key beforeGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer tosutosu.betterwithbackpacks.crafting.ModRecipes for mod betterwithbackpacks (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer luke.bonusblocks.ModContainer.TerrainApi.TerrainApiPlugin for mod bonusblocks (key terrain-api)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer luke.bonusblocks.BonusBlocks for mod bonusblocks (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer luke.bonusblocks.BonusBlocks for mod bonusblocks (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer lexal.btb.BTBTA for mod btb (key beforeGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer lexal.btb.modmodule.TerrainAPIPlugin for mod btb (key terrain-api)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer lexal.btb.modmodule.SpawnEggsPlugin for mod btb (key spawneggs)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer lexal.btb.BTBTA for mod btb (key beforeClientStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer lexal.btb.crafting.ModRecipes for mod btb (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer lexal.btb.modmodule.BTWaila.BTWailaPlugin for mod btb (key btwaila)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer toufoumaster.btwaila.entryplugins.modmenu.ModMenuModule for mod btwaila (key modmenu)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer toufoumaster.btwaila.BTWaila for mod btwaila (key afterGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer toufoumaster.btwaila.BTWailaComponents for mod btwaila (key client)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer toufoumaster.btwaila.BTWaila for mod btwaila (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer toufoumaster.btwaila.entryplugins.waila.BTWailaPlugin for mod btwaila (key btwaila)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer sunsetsatellite.catalyst.Catalyst for mod catalyst-core (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer sunsetsatellite.catalyst.CatalystEnergy for mod catalyst-energy (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer diarr.caveuberhaul.TerrainAPIContainer for mod caveuberhaul (key terrain-api)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer diarr.caveuberhaul.CaveUberhaul for mod caveuberhaul (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.dragonfly.DragonFly for mod dragonfly (key beforeGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer turniplabs.farlanders.Farlanders for mod farlanders (key beforeGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer turniplabs.farlanders.SpawnEggsPlugin for mod farlanders (key spawneggs)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer turniplabs.farlanders.Farlanders for mod farlanders (key beforeClientStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer turniplabs.farlanders.entity.crafting.FarlandersRecipes for mod farlanders (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer turniplabs.halplibe.HalpLibe for mod halplibe (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer turniplabs.halplibe.HalpLibe for mod halplibe (key preLaunch)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baboon.industry.Industry2 for mod industry (key beforeGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baboon.industry.compat.terrainapi.TerrainAPIPlugin for mod industry (key terrain-api)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baboon.industry.recipe.RecipesTrommel for mod industry (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baboon.industry.recipe.IndustryRecipes for mod industry (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer baboon.industry.compat.btwaila.WailaPlugin for mod industry (key btwaila)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.brokenmoon.afloydironchest.IronChestMain for mod ironchest (key beforeGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.brokenmoon.afloydironchest.IronChestMain for mod ironchest (key afterGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.brokenmoon.afloydironchest.IronChestRecipes for mod ironchest (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer net.brokenmoon.afloydironchest.ModContainer.BTWaila.WailaPlugin for mod ironchest (key btwaila)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer fl205.ironfurnaces.IronFurnacesRecipes for mod ironfurnaces (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer fl205.ironfurnaces.IronFurnaces for mod ironfurnaces (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer fl205.ironfurnaces.modded.BTWaila.WailaPlugin for mod ironfurnaces (key btwaila)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer Killi.Things.Mod for mod kthings (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.modernboats.ModernBoats for mod modernboats (key afterGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.modernboats.ModernBoats for mod modernboats (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer goocraft4evr.nonamedyes.modcontainers.terrainapi.TerrainAPIPlugin for mod nonamedyes (key terrain-api)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer goocraft4evr.nonamedyes.crafting.ModRecipes for mod nonamedyes (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer goocraft4evr.nonamedyes.NoNameDyes for mod nonamedyes (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer goocraft4evr.nonamedyes.modcontainers.btwaila.BTWailaPlugin for mod nonamedyes (key btwaila)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.patches.Patches for mod patches (key afterGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.patches.Patches for mod patches (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.patches.PatchesClient for mod patches (key afterClientStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.polymorph.ModMenuModule for mod polymorph (key modmenu)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.polymorph.PolyMorph for mod polymorph (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.polymorph.PolyMorphClient for mod polymorph (key afterClientStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer deboni.potatologistics.PotatoLogisticsMod for mod potatologistics (key beforeGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer deboni.potatologistics.PotatoLogisticsMod for mod potatologistics (key beforeClientStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer deboni.potatologistics.PotatoLogisticsMod for mod potatologistics (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer deboni.potatologistics.modintegrations.BTWaila.WailaPlugin for mod potatologistics (key btwaila)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer nhauqq.qolfeatures.QoLFeatures for mod qolfeatures (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer turniplabs.simpletech.SimpleTech for mod simpletech (key beforeGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer turniplabs.simpletech.SimpleTechRecipes for mod simpletech (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.spawneggs.SpawnEggsMod for mod spawneggs (key afterGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.spawneggs.impl.SpawnEggsImpl for mod spawneggs (key spawneggs)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.terrainapi.TerrainMain for mod terrain-api (key afterGameStart)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.terrainapi.initialization.TerrainInitialization for mod terrain-api (key terrain-api)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.terrainapi.TerrainMain for mod terrain-api (key main)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.yumbleach.YumBleach for mod yumbleach (key recipesReady)
+[02:50:29] [main/DEBUG] (FabricLoader/Entrypoint) Registering new-style initializer useless.yumbleach.YumBleach for mod yumbleach (key main)
+[02:50:29] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/matth/Documents/GitHub/UselessBTAModPack/Useless%20BTA%20Pack%202.0.0-pre1%20(Server)test/libraries/net/fabricmc/sponge-mixin/0.12.4+mixin.0.8.5/sponge-mixin-0.12.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Error cleaning class output directory: .mixin.out
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Initialising Mixin Platform Manager
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Adding mixin platform agents for container ContainerHandleURI(file:///C:/Users/matth/Documents/GitHub/UselessBTAModPack/Useless%20BTA%20Pack%202.0.0-pre1%20(Server)test/libraries/babric/fabric-loader/0.14.19-babric.3-bta/fabric-loader-0.14.19-babric.3-bta.jar)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:///C:/Users/matth/Documents/GitHub/UselessBTAModPack/Useless%20BTA%20Pack%202.0.0-pre1%20(Server)test/libraries/babric/fabric-loader/0.14.19-babric.3-bta/fabric-loader-0.14.19-babric.3-bta.jar)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) MixinPlatformAgentDefault accepted container ContainerHandleURI(file:///C:/Users/matth/Documents/GitHub/UselessBTAModPack/Useless%20BTA%20Pack%202.0.0-pre1%20(Server)test/libraries/babric/fabric-loader/0.14.19-babric.3-bta/fabric-loader-0.14.19-babric.3-bta.jar)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:///C:/Users/matth/Documents/GitHub/UselessBTAModPack/Useless%20BTA%20Pack%202.0.0-pre1%20(Server)test/libraries/babric/fabric-loader/0.14.19-babric.3-bta/fabric-loader-0.14.19-babric.3-bta.jar)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) MixinPlatformAgentDefault accepted container ContainerHandleURI(file:///C:/Users/matth/Documents/GitHub/UselessBTAModPack/Useless%20BTA%20Pack%202.0.0-pre1%20(Server)test/libraries/babric/fabric-loader/0.14.19-babric.3-bta/fabric-loader-0.14.19-babric.3-bta.jar)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:///C:/Users/matth/Documents/GitHub/UselessBTAModPack/Useless%20BTA%20Pack%202.0.0-pre1%20(Server)test/libraries/babric/fabric-loader/0.14.19-babric.3-bta/fabric-loader-0.14.19-babric.3-bta.jar)]
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:///C:/Users/matth/Documents/GitHub/UselessBTAModPack/Useless%20BTA%20Pack%202.0.0-pre1%20(Server)test/libraries/babric/fabric-loader/0.14.19-babric.3-bta/fabric-loader-0.14.19-babric.3-bta.jar)]
+[02:50:37] [main/DEBUG] (FabricLoader/Knot) Adding .\.fabric\remappedJars\minecraft-7.1-beta.1a-0.14.19-babric.3-bta\server-intermediary.jar to classpath.
+[02:50:37] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\libraries\babric\intermediary\b1.7.3\intermediary-b1.7.3.jar to classpath.
+[02:50:37] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\libraries\org\apache\logging\log4j\log4j-1.2-api\2.20.0\log4j-1.2-api-2.20.0.jar to classpath.
+[02:50:37] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\libraries\log4j\apache-log4j-extras\1.2.17\apache-log4j-extras-1.2.17.jar to classpath.
+[02:50:37] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\libraries\com\google\guava\guava\31.0.1-jre\guava-31.0.1-jre.jar to classpath.
+[02:50:37] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar to classpath.
+[02:50:37] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar to classpath.
+[02:50:37] [main/DEBUG] (FabricLoader/Knot) Adding C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar to classpath.
+[02:50:37] [main/DEBUG] (FabricLoader/Entrypoint) Iterating over entrypoint 'preLaunch'
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing mixins for MixinEnvironment[DEFAULT]
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config better_ai.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config better_with_aquatic.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config betterwithbackpacks.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config bonusblocks.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config btb.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config btwaila.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config catalyst.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config catalyst-energy.mixins.json
+[02:50:37] [main/WARN] (FabricLoader/Mixin) Reference map 'catalyst-energy-refmap.json' for catalyst-energy.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config caveuberhaul.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config mixinextras.init.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @Inject with org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @ModifyArg with org.spongepowered.asm.mixin.injection.struct.ModifyArgInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @ModifyArgs with org.spongepowered.asm.mixin.injection.struct.ModifyArgsInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @Redirect with org.spongepowered.asm.mixin.injection.struct.RedirectInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @ModifyVariable with org.spongepowered.asm.mixin.injection.struct.ModifyVariableInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @ModifyConstant with org.spongepowered.asm.mixin.injection.struct.ModifyConstantInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @ModifyExpressionValue with com.llamalad7.mixinextras.injector.ModifyExpressionValueInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @ModifyReceiver with com.llamalad7.mixinextras.injector.ModifyReceiverInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @ModifyReturnValue with com.llamalad7.mixinextras.injector.ModifyReturnValueInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @WrapOperation with com.llamalad7.mixinextras.injector.wrapoperation.WrapOperationInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @WrapWithCondition with com.llamalad7.mixinextras.injector.WrapWithConditionInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Registering new injector for @SugarWrapper with com.llamalad7.mixinextras.sugar.impl.SugarWrapperInjectionInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config dragonfly.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config farlanders.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config halplibe.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config industry.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config afloydironchest.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config ironfurnaces.mixins.json
+[02:50:37] [main/WARN] (FabricLoader/Mixin) Reference map 'ironfurnaces-refmap.json' for ironfurnaces.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config Things.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config modernboats.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config nonamedyes.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config patches.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config polymorph.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config potatologistics.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config prismaticlibe.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config qolfeatures.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config simpletech.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config spawneggs.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config terrainapi.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Selecting config yumbleach.mixins.json
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing better_ai.mixins.json (3)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing better_with_aquatic.mixins.json (11)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing betterwithbackpacks.mixins.json (4)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing bonusblocks.mixins.json (13)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing btb.mixins.json (14)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing btwaila.mixins.json (9)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing catalyst.mixins.json (6)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing catalyst-energy.mixins.json (0)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing caveuberhaul.mixins.json (11)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing mixinextras.init.mixins.json (0)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing dragonfly.mixins.json (9)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing farlanders.mixins.json (2)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing halplibe.mixins.json (36)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing industry.mixins.json (4)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing afloydironchest.mixins.json (5)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing ironfurnaces.mixins.json (0)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing Things.mixins.json (13)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing modernboats.mixins.json (3)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing nonamedyes.mixins.json (28)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing patches.mixins.json (10)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing polymorph.mixins.json (10)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing potatologistics.mixins.json (2)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing prismaticlibe.mixins.json (9)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing qolfeatures.mixins.json (1)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing simpletech.mixins.json (6)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing spawneggs.mixins.json (2)
+[02:50:37] [main/WARN] (FabricLoader/Mixin) Error loading class: net/minecraft/client/Minecraft (java.lang.ClassNotFoundException: net/minecraft/client/Minecraft)
+[02:50:37] [main/WARN] (FabricLoader/Mixin) @Mixin target net.minecraft.client.Minecraft was not found spawneggs.mixins.json:MinecraftMixin from mod spawneggs
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing terrainapi.mixins.json (7)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Preparing yumbleach.mixins.json (1)
+[02:50:37] [main/INFO] (halplibe) Config file name: halplibe.cfg
+[02:50:37] [main/INFO] (halplibe) Config file path: C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\.\config\halplibe.cfg
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing mixins.registry.BlockMixin from halplibe.mixins.json into net.minecraft.core.block.Block
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing core.block.Block_I from Things.mixins.json into net.minecraft.core.block.Block
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.registry.BlockMixin from mod halplibe->@Inject::captureHighest(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.registry.BlockMixin from mod halplibe->@Inject::addInfo(Ljava/lang/String;ILnet/minecraft/core/block/material/Material;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.registry.BlockMixin from mod halplibe->@Inject::addInfo(Ljava/lang/String;ILnet/minecraft/core/block/material/Material;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.registry.BlockMixin from mod halplibe->@Inject::addInfo(Ljava/lang/String;ILnet/minecraft/core/block/material/Material;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing accessors.EntityLivingAccessor from btwaila.mixins.json into net.minecraft.core.entity.EntityLiving
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityLivingMixin from caveuberhaul.mixins.json into net.minecraft.core.entity.EntityLiving
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityMixin from better_with_aquatic.mixins.json into net.minecraft.core.entity.Entity
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityMixin from bonusblocks.mixins.json into net.minecraft.core.entity.Entity
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityMixin from industry.mixins.json into net.minecraft.core.entity.Entity
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityMixin from mod better_with_aquatic->@Inject::checkAndHandleWater(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityMixin from mod better_with_aquatic->@Inject::baseTick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityMixin from mod better_with_aquatic->@Inject::baseTick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityMixin from mod better_with_aquatic->@Inject::baseTick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:EntityMixin from mod bonusblocks->@Inject::tick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:EntityMixin from mod bonusblocks->@Inject::tick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:EntityMixin from mod bonusblocks->@Inject::tick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) industry.mixins.json:EntityMixin from mod industry->@Inject::industry_lavaIridiumProtection(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) industry.mixins.json:EntityMixin from mod industry->@Inject::industry_lavaIridiumProtection(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) industry.mixins.json:EntityMixin from mod industry->@Inject::industry_lavaIridiumProtection(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityPlayerMixin from better_with_aquatic.mixins.json into net.minecraft.core.entity.player.EntityPlayer
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityPlayerMixin from betterwithbackpacks.mixins.json into net.minecraft.core.entity.player.EntityPlayer
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing Entity.EntityPlayerMixin from btb.mixins.json into net.minecraft.core.entity.player.EntityPlayer
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityPlayerMixin from catalyst.mixins.json into net.minecraft.core.entity.player.EntityPlayer
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) catalyst.mixins.json:EntityPlayerMixin from mod catalyst-core: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityPlayerMixin from farlanders.mixins.json into net.minecraft.core.entity.player.EntityPlayer
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing Entity.MixinEntityPlayer from afloydironchest.mixins.json into net.minecraft.core.entity.player.EntityPlayer
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityPlayerMixin from polymorph.mixins.json into net.minecraft.core.entity.player.EntityPlayer
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityPlayerMixin from simpletech.mixins.json into net.minecraft.core.entity.player.EntityPlayer
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::moveEntityWithHeading(FFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::moveEntityWithHeading(FFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::moveEntityWithHeading(FFLorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::onLivingUpdate(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::onLivingUpdate(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::onLivingUpdate(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::readAdditionalSaveData(Lcom/mojang/nbt/CompoundTag;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::readAdditionalSaveData(Lcom/mojang/nbt/CompoundTag;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::readAdditionalSaveData(Lcom/mojang/nbt/CompoundTag;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::addAdditionalSaveData(Lcom/mojang/nbt/CompoundTag;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::addAdditionalSaveData(Lcom/mojang/nbt/CompoundTag;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityPlayerMixin from mod better_with_aquatic->@Inject::addAdditionalSaveData(Lcom/mojang/nbt/CompoundTag;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityPlayerMixin from mod btb->@Inject::addAchievement(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityPlayerMixin from mod btb->@Inject::addAchievement(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityPlayerMixin from mod btb->@Inject::addAchievement(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityPlayerMixin from mod btb->@Inject::portal(ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityPlayerMixin from mod btb->@Inject::portal(ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityPlayerMixin from mod btb->@Inject::portal(ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) farlanders.mixins.json:EntityPlayerMixin from mod farlanders->@Inject::farlanders_nightVision(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) farlanders.mixins.json:EntityPlayerMixin from mod farlanders->@Inject::farlanders_nightVision(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) farlanders.mixins.json:EntityPlayerMixin from mod farlanders->@Inject::farlanders_nightVision(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing StatMixin from dragonfly.mixins.json into net.minecraft.core.achievement.stat.Stat
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) dragonfly.mixins.json:StatMixin from mod dragonfly->@Inject::preventCrash(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing BlockGrassMixin from bonusblocks.mixins.json into net.minecraft.core.block.BlockGrass
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing Block.BlockGrassMixin from btb.mixins.json into net.minecraft.core.block.BlockGrass
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing core.block.BlockGrassMixin from nonamedyes.mixins.json into net.minecraft.core.block.BlockGrass
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing Core.Block.BlockSaplingOakMixin from patches.mixins.json into net.minecraft.core.block.BlockSaplingOak
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) patches.mixins.json:Core.Block.BlockSaplingOakMixin from mod patches->@Inject::addMossyTreeTypes(Lnet/minecraft/core/world/World;IIILjava/util/Random;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing BlockSaplingShrubMixin from bonusblocks.mixins.json into net.minecraft.core.block.BlockSaplingShrub
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:BlockSaplingShrubMixin from mod bonusblocks->@Inject::growTree(Lnet/minecraft/core/world/World;IIILjava/util/Random;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:BlockSaplingShrubMixin from mod bonusblocks->@Inject::growTree(Lnet/minecraft/core/world/World;IIILjava/util/Random;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:BlockSaplingShrubMixin from mod bonusblocks->@Inject::growTree(Lnet/minecraft/core/world/World;IIILjava/util/Random;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing BlockSaplingCacaoMixin from bonusblocks.mixins.json into net.minecraft.core.block.BlockSaplingCacao
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:BlockSaplingCacaoMixin from mod bonusblocks->@Inject::growTree(Lnet/minecraft/core/world/World;IIILjava/util/Random;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:BlockSaplingCacaoMixin from mod bonusblocks->@Inject::growTree(Lnet/minecraft/core/world/World;IIILjava/util/Random;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:BlockSaplingCacaoMixin from mod bonusblocks->@Inject::growTree(Lnet/minecraft/core/world/World;IIILjava/util/Random;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing BlockDeadBushMixin from bonusblocks.mixins.json into net.minecraft.core.block.BlockDeadBush
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:BlockDeadBushMixin from mod bonusblocks->@Inject::generate(ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing Entity.TileEntityMixin from btb.mixins.json into net.minecraft.core.block.entity.TileEntity
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing accessors.TileEntityAccessor from halplibe.mixins.json into net.minecraft.core.block.entity.TileEntity
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Renaming @Invoker method callAddMapping(Ljava/lang/Class;Ljava/lang/String;)V to callAddMapping$halplibe_$md$db99b5$0 in halplibe.mixins.json:accessors.TileEntityAccessor from mod halplibe
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing core.block.entity.TileEntityMixin from nonamedyes.mixins.json into net.minecraft.core.block.entity.TileEntity
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.TileEntityMixin from mod btb->@Inject::inject(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) nonamedyes.mixins.json:core.block.entity.TileEntityMixin from mod nonamedyes->@Inject::inject(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityItemMixin from better_with_aquatic.mixins.json into net.minecraft.core.entity.EntityItem
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing Entity.EntityItemMixin from btb.mixins.json into net.minecraft.core.entity.EntityItem
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityItemMixin from simpletech.mixins.json into net.minecraft.core.entity.EntityItem
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityItemMixin from mod better_with_aquatic->@Inject::checkAndHandleWater(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityItemMixin from mod better_with_aquatic->@Inject::tick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityItemMixin from mod better_with_aquatic->@Inject::tick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:EntityItemMixin from mod better_with_aquatic->@Inject::tick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityItemMixin from mod btb->@Inject::stackSize(Lnet/minecraft/core/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityItemMixin from mod btb->@Inject::stackSize(Lnet/minecraft/core/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityItemMixin from mod btb->@Inject::stackSize(Lnet/minecraft/core/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityItemMixin from mod btb->@Inject::addAchievements(Lnet/minecraft/core/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityItemMixin from mod btb->@Inject::addAchievements(Lnet/minecraft/core/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Entity.EntityItemMixin from mod btb->@Inject::addAchievements(Lnet/minecraft/core/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) simpletech.mixins.json:EntityItemMixin from mod simpletech->@Inject::removeItemEntityStacking(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityArrowMixin from caveuberhaul.mixins.json into net.minecraft.core.entity.projectile.EntityArrow
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) caveuberhaul.mixins.json:EntityArrowMixin from mod caveuberhaul->@Inject::inGroundMixin(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) caveuberhaul.mixins.json:EntityArrowMixin from mod caveuberhaul->@Inject::inGroundMixin(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) caveuberhaul.mixins.json:EntityArrowMixin from mod caveuberhaul->@Inject::inGroundMixin(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing EntitySnowballMixin from caveuberhaul.mixins.json into net.minecraft.core.entity.projectile.EntitySnowball
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) caveuberhaul.mixins.json:EntitySnowballMixin from mod caveuberhaul->@Inject::tickMixin(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) caveuberhaul.mixins.json:EntitySnowballMixin from mod caveuberhaul->@Inject::tickMixin(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) caveuberhaul.mixins.json:EntitySnowballMixin from mod caveuberhaul->@Inject::tickMixin(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) caveuberhaul.mixins.json:EntitySnowballMixin from mod caveuberhaul->@Inject::tickMixin(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) caveuberhaul.mixins.json:EntitySnowballMixin from mod caveuberhaul->@Inject::tickMixin(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) caveuberhaul.mixins.json:EntitySnowballMixin from mod caveuberhaul->@Inject::tickMixin(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing accessors.BlockFireAccessor from halplibe.mixins.json into net.minecraft.core.block.BlockFire
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing mixins.BlockFireMixin from halplibe.mixins.json into net.minecraft.core.block.BlockFire
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing core.block.BlockFire_I from Things.mixins.json into net.minecraft.core.block.BlockFire
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing core.block.BlockFire_M from Things.mixins.json into net.minecraft.core.block.BlockFire
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Things.mixins.json:core.block.BlockFire_M from mod kthings->@Inject::AddBurnableBlocks(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Things.mixins.json:core.block.BlockFire_M from mod kthings->@Inject::AddBurnableBlocks(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Things.mixins.json:core.block.BlockFire_M from mod kthings->@Inject::AddBurnableBlocks(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing mixins.TileEntityFurnaceMixin from halplibe.mixins.json into net.minecraft.core.block.entity.TileEntityFurnace
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing mixins.TileEntityBlastFurnaceMixin from halplibe.mixins.json into net.minecraft.core.block.entity.TileEntityBlastFurnace
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing Entity.MixinTileEntityTrommel from afloydironchest.mixins.json into net.minecraft.core.block.entity.TileEntityTrommel
+[02:50:37] [main/WARN] (FabricLoader/Mixin) @Inject(@At("INVOKE")) Shift.BY=2 on afloydironchest.mixins.json:Entity.MixinTileEntityTrommel from mod ironchest::handler$zei000$ironchest$addIronChestToTrommel exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) afloydironchest.mixins.json:Entity.MixinTileEntityTrommel from mod ironchest->@Inject::addIronChestToTrommel(ILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Lnet/minecraft/core/item/ItemStack;IIII)V does use it's CallbackInfo
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing core.block.entity.TileEntitySignMixin from nonamedyes.mixins.json into net.minecraft.core.block.entity.TileEntitySign
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) nonamedyes.mixins.json:core.block.entity.TileEntitySignMixin from mod nonamedyes->@Inject::injected(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) nonamedyes.mixins.json:core.block.entity.TileEntitySignMixin from mod nonamedyes->@Inject::injected(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) Mixing core.block.entity.TileEntityFlagMixin from nonamedyes.mixins.json into net.minecraft.core.block.entity.TileEntityFlag
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) nonamedyes.mixins.json:core.block.entity.TileEntityFlagMixin from mod nonamedyes->@Inject::injected(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;III)V does use it's CallbackInfoReturnable
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) nonamedyes.mixins.json:core.block.entity.TileEntityFlagMixin from mod nonamedyes->@Inject::injected(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;III)V does use it's CallbackInfoReturnable
+[02:50:37] [main/DEBUG] (FabricLoader/Mixin) nonamedyes.mixins.json:core.block.entity.TileEntityFlagMixin from mod nonamedyes->@Inject::injected(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;III)V does use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing BiomeMixin from better_with_aquatic.mixins.json into net.minecraft.core.world.biome.Biome
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing BiomeGenBaseMixin from caveuberhaul.mixins.json into net.minecraft.core.world.biome.Biome
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing BiomeMixin from farlanders.mixins.json into net.minecraft.core.world.biome.Biome
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:BiomeMixin from mod better_with_aquatic->@Inject::addMobs(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:BiomeMixin from mod better_with_aquatic->@Inject::addMobs(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) better_with_aquatic.mixins.json:BiomeMixin from mod better_with_aquatic->@Inject::addMobs(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) caveuberhaul.mixins.json:BiomeGenBaseMixin from mod caveuberhaul->@Inject::getRandomWorldGenForTreesMix(Ljava/util/Random;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) farlanders.mixins.json:BiomeMixin from mod farlanders->@Inject::farlanders_addMobs(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) farlanders.mixins.json:BiomeMixin from mod farlanders->@Inject::farlanders_addMobs(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) farlanders.mixins.json:BiomeMixin from mod farlanders->@Inject::farlanders_addMobs(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing BiomeRainforestMixin from bonusblocks.mixins.json into net.minecraft.core.world.biome.BiomeRainforest
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:BiomeRainforestMixin from mod bonusblocks->@Inject::getRandomWorldGenForTrees(Ljava/util/Random;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityPathfinderMixin from better_ai.mixins.json into net.minecraft.core.entity.EntityPathfinder
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) better_ai.mixins.json:EntityPathfinderMixin from mod better_ai->@Inject::tick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) better_ai.mixins.json:EntityPathfinderMixin from mod better_ai->@Inject::tick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) better_ai.mixins.json:EntityPathfinderMixin from mod better_ai->@Inject::tick(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing Entity.EntityCreeperMixin from btb.mixins.json into net.minecraft.core.entity.monster.EntityCreeper
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing core.entity.animal.EntitySheepAccessor from nonamedyes.mixins.json into net.minecraft.core.entity.animal.EntitySheep
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Renaming @Accessor method setFleeceColorTable([[F)V to setFleeceColorTable$nonamedyes_$md$db99b5$0 in nonamedyes.mixins.json:core.entity.animal.EntitySheepAccessor from mod nonamedyes
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing core.entity.animal.EntitySheepMixin from nonamedyes.mixins.json into net.minecraft.core.entity.animal.EntitySheep
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) nonamedyes.mixins.json:core.entity.animal.EntitySheepMixin from mod nonamedyes->@Inject::getFleeceColor(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:38] [main/INFO] (halplibe) Config file name: {enable_swim=true, starting_item_id=26000, starting_entity_id=600, enable_drowned=true, starting_block_id=3200}
+[02:50:38] [main/INFO] (halplibe) Config file path: C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\.\config\better_with_aquatic.cfg
+[02:50:38] [main/INFO] (halplibe) Updating config at C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\.\config\better_with_aquatic.cfg
+[02:50:38] [main/INFO] (halplibe) Updating config at C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\.\config\better_with_aquatic.cfg
+[02:50:38] [main/INFO] (halplibe) Config file name: farlanders.cfg
+[02:50:38] [main/INFO] (halplibe) Config file path: C:\Users\matth\Documents\GitHub\UselessBTAModPack\Useless BTA Pack 2.0.0-pre1 (Server)test\.\config\farlanders.cfg
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing mixins.RegistryMixin from halplibe.mixins.json into net.minecraft.core.data.registry.Registry
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing BiomeShrublandMixin from bonusblocks.mixins.json into net.minecraft.core.world.biome.BiomeShrubland
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:BiomeShrublandMixin from mod bonusblocks->@Inject::getRandomWorldGenForTrees(Ljava/util/Random;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing mixins.registry.ItemMixin from halplibe.mixins.json into net.minecraft.core.item.Item
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.registry.ItemMixin from mod halplibe->@Inject::captureHighest(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing ItemToolShovelMixin from bonusblocks.mixins.json into net.minecraft.core.item.tool.ItemToolShovel
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) bonusblocks.mixins.json:ItemToolShovelMixin from mod bonusblocks->@Inject::addNewPathBlock(Lnet/minecraft/core/item/ItemStack;Lnet/minecraft/core/entity/player/EntityPlayer;Lnet/minecraft/core/world/World;IIILnet/minecraft/core/util/helper/Side;DDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing ItemToolPickaxeOverride from qolfeatures.mixins.json into net.minecraft.core.item.tool.ItemToolPickaxe
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing mixins.ArmorMaterialMixin from halplibe.mixins.json into net.minecraft.core.item.material.ArmorMaterial
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing EntityBoatMixin from modernboats.mixins.json into net.minecraft.core.entity.vehicle.EntityBoat
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) modernboats.mixins.json:EntityBoatMixin from mod modernboats->@Inject::tickCustom(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V does use it's CallbackInfo
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing Core.Item.ItemDyeMixin from patches.mixins.json into net.minecraft.core.item.ItemDye
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing Item.ItemDyeMixin from btb.mixins.json into net.minecraft.core.item.ItemDye
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing core.item.ItemDyeMixin from nonamedyes.mixins.json into net.minecraft.core.item.ItemDye
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) patches.mixins.json:Core.Item.ItemDyeMixin from mod patches->@Inject::growMoreFlowers(Lnet/minecraft/core/item/ItemStack;Lnet/minecraft/core/entity/player/EntityPlayer;Lnet/minecraft/core/world/World;IIILnet/minecraft/core/util/helper/Side;DDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Item.ItemDyeMixin from mod btb->@Inject::injected(Lnet/minecraft/core/item/ItemStack;Lnet/minecraft/core/entity/player/EntityPlayer;Lnet/minecraft/core/world/World;IIILnet/minecraft/core/util/helper/Side;DDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) nonamedyes.mixins.json:core.item.ItemDyeMixin from mod nonamedyes->@Inject::injected(Lnet/minecraft/core/item/ItemStack;Lnet/minecraft/core/entity/player/EntityPlayer;Lnet/minecraft/core/world/World;IIILnet/minecraft/core/util/helper/Side;DDLorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing accessors.PacketAccessor from btwaila.mixins.json into net.minecraft.core.net.packet.Packet
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Renaming @Invoker method callAddIdClassMapping(IZZLjava/lang/Class;)V to callAddIdClassMapping$btwaila_$md$db99b5$0 in btwaila.mixins.json:accessors.PacketAccessor from mod btwaila
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing PacketMixin from catalyst.mixins.json into net.minecraft.core.net.packet.Packet
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) catalyst.mixins.json:PacketMixin from mod catalyst-core: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing mixins.network.PacketMixin from halplibe.mixins.json into net.minecraft.core.net.packet.Packet
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) catalyst.mixins.json:PacketMixin from mod catalyst-core->@Inject::registerPacket(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing Item.ItemJarMixin from btb.mixins.json into net.minecraft.core.item.ItemJar
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) btb.mixins.json:Item.ItemJarMixin from mod btb->@Inject::extraJarActions(Lnet/minecraft/core/item/ItemStack;Lnet/minecraft/core/world/World;Lnet/minecraft/core/entity/player/EntityPlayer;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing accessor.StatListAccessor from dragonfly.mixins.json into net.minecraft.core.achievement.stat.StatList
+[02:50:38] [main/DEBUG] (FabricLoader/GameProvider) Launch arguments: []
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing mixins.MinecraftServerMixin from halplibe.mixins.json into net.minecraft.server.MinecraftServer
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing mixins.network.MinecraftServerMixin from halplibe.mixins.json into net.minecraft.server.MinecraftServer
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Renaming synthetic method lambda$postStartClient$0(Lturniplabs/halplibe/helper/NetworkHelper$NetworkEntry;)V to mddb99b5$halplibe$lambda$postStartClient$0$0 in halplibe.mixins.json:mixins.network.MinecraftServerMixin from mod halplibe
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing mixins.registry.MinecraftServerMixin from halplibe.mixins.json into net.minecraft.server.MinecraftServer
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) Mixing Server.MinecraftServerMixin from patches.mixins.json into net.minecraft.server.MinecraftServer
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.MinecraftServerMixin from mod halplibe->@Inject::recipeEntrypoint(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V doesn't use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.MinecraftServerMixin from mod halplibe->@Inject::recipeEntrypoint(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V has 0 override(s) in child classes
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.MinecraftServerMixin from mod halplibe->@Inject::recipeEntrypoint(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V won't be passed a CallbackInfoReturnable as a result
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.MinecraftServerMixin from mod halplibe->@Inject::beforeGameStartEntrypoint(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V doesn't use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.MinecraftServerMixin from mod halplibe->@Inject::beforeGameStartEntrypoint(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V has 0 override(s) in child classes
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.MinecraftServerMixin from mod halplibe->@Inject::beforeGameStartEntrypoint(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V won't be passed a CallbackInfoReturnable as a result
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.MinecraftServerMixin from mod halplibe->@Inject::afterGameStartEntrypoint(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V doesn't use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.MinecraftServerMixin from mod halplibe->@Inject::afterGameStartEntrypoint(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V has 0 override(s) in child classes
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.MinecraftServerMixin from mod halplibe->@Inject::afterGameStartEntrypoint(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V won't be passed a CallbackInfoReturnable as a result
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.network.MinecraftServerMixin from mod halplibe->@Inject::postStartClient(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.network.MinecraftServerMixin from mod halplibe->@Inject::postStartClient(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.network.MinecraftServerMixin from mod halplibe->@Inject::postStartClient(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.registry.MinecraftServerMixin from mod halplibe->@Inject::postInit(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.registry.MinecraftServerMixin from mod halplibe->@Inject::postInit(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) halplibe.mixins.json:mixins.registry.MinecraftServerMixin from mod halplibe->@Inject::postInit(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) patches.mixins.json:Server.MinecraftServerMixin from mod patches->@Inject::modpackInfo(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V doesn't use it's CallbackInfoReturnable
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) patches.mixins.json:Server.MinecraftServerMixin from mod patches->@Inject::modpackInfo(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V has 0 override(s) in child classes
+[02:50:38] [main/DEBUG] (FabricLoader/Mixin) patches.mixins.json:Server.MinecraftServerMixin from mod patches->@Inject::modpackInfo(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V won't be passed a CallbackInfoReturnable as a result

@@ -1,0 +1,14 @@
+{
+    "formatVersion": 1,
+    "jarMods": [
+        {
+            "MMC-displayname": "Better than Adventure!",
+            "MMC-filename": "bta.jar",
+            "MMC-hint": "local",
+            "name": "org.multimc.jarmods:bta:1"
+        }
+    ],
+    "name": "Better than Adventure!",
+    "uid": "org.multimc.jarmod.bta",
+    "version": "7.1-pre1a"
+}

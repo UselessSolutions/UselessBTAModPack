@@ -1,0 +1,48 @@
+{
+  "Inverse Leaves Probability": 1234,
+  "Ore Cluster Size": {
+    "tile.ore.lapis.stone": 6,
+    "tile.ore.coal.stone": 16,
+    "tile.dirt": 32,
+    "tile.ore.iron.stone": 8,
+    "tile.gravel": 32,
+    "tile.ore.gold.stone": 8,
+    "tile.ore.redstone.stone": 7,
+    "tile.block.clay": 32,
+    "tile.ore.diamond.stone": 7
+  },
+  "Chances Per Chunk": {
+    "tile.ore.lapis.stone": 1,
+    "tile.ore.coal.stone": 20,
+    "tile.dirt": 20,
+    "tile.ore.iron.stone": 20,
+    "tile.gravel": 10,
+    "tile.ore.gold.stone": 2,
+    "tile.ore.redstone.stone": 8,
+    "tile.block.clay": 20,
+    "tile.ore.diamond.stone": 1
+  },
+  "Vertical Starting Range": {
+    "tile.ore.lapis.stone": 0.0,
+    "tile.ore.coal.stone": 0.0,
+    "tile.dirt": 0.0,
+    "tile.ore.iron.stone": 0.0,
+    "tile.gravel": 0.0,
+    "tile.ore.gold.stone": 0.0,
+    "tile.ore.redstone.stone": 0.0,
+    "tile.block.clay": 0.0,
+    "tile.ore.diamond.stone": 0.0
+  },
+  "Vertical Ending Range": {
+    "tile.ore.lapis.stone": 0.25,
+    "tile.ore.coal.stone": 1.0,
+    "tile.dirt": 1.0,
+    "tile.ore.iron.stone": 0.5,
+    "tile.gravel": 1.0,
+    "tile.ore.gold.stone": 0.25,
+    "tile.ore.redstone.stone": 0.125,
+    "tile.block.clay": 1.0,
+    "tile.ore.diamond.stone": 0.125
+  },
+  "Override Default Values": false
+}
