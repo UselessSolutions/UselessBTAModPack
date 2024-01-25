@@ -37,4 +37,5 @@ Extract the server zip folder and run start.bat to launch the server, it'll gene
 - [LocalDif, by Useless](<https://github.com/UselessBullets/local-difficulty>)
 - [Resourceful, by Useless](<https://github.com/UselessBullets/resourceful>)
 - [PolyMorph, by Useless](<https://github.com/UselessBullets/PolyMorph>)
+- [Rolling Hills, by Cookie Cakes](<https://github.com/FatherCheese/bta-rolling-hills>)
 - Dark Mode Pack, by Useless
